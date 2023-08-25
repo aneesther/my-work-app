@@ -1,0 +1,11 @@
+.form-sec {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
